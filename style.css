@@ -51,7 +51,7 @@ header{
   margin:0;
   font-family:"Cormorant Garamond", serif;
   font-weight:600;
-  font-size:36px;
+  font-size:32px;
   letter-spacing:.08em;
 }
 .brand p{
@@ -341,7 +341,7 @@ textarea{ min-height:140px; resize:vertical; }
   transition:.2s;
   font-family:"Cormorant Garamond", serif;
 	font-weight:bold;
-	font-size:24px;
+	font-size:20px;
 }
 .send:hover{ transform: translateY(-1px); opacity:.92; }
 
