@@ -51,7 +51,7 @@ header{
   margin:0;
   font-family:"Cormorant Garamond", serif;
   font-weight:600;
-  font-size:28px;
+  font-size:32px;
   letter-spacing:.08em;
 }
 .brand p{
@@ -365,5 +365,5 @@ footer{
   .work-media{ min-height:240px; }
   .about-wrap{ grid-template-columns:1fr; }
   .section-title{ font-size:36px; }
-  .brand h1{ font-size:28px; }
+  .brand h1{ font-size:24px; }
 }
